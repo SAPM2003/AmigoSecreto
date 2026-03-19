@@ -23,6 +23,3 @@ No necesitas instalar nada pesado. Para ejecutar el proyecto localmente:
 2. Abre el archivo `index.html` en tu navegador preferido.
 3. ¡Empieza a añadir a tus amigos y sortea!
 
----
-
-Desarrollado con ❤️ como parte del programa de formación en lógica de programación.
